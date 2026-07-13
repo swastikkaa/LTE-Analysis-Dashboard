@@ -35,7 +35,6 @@ The tool was later reused to generate reports for additional network datasets du
 
 ## KPI Visualization
 
-> Insert Screenshot 3 here
 <img width="1538" height="1067" alt="image" src="https://github.com/user-attachments/assets/607568fd-5354-4ef1-8783-aa3b5b9557b3" />
 
 
